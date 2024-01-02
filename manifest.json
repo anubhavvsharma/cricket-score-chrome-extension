@@ -1,0 +1,11 @@
+{
+    "name": "Cricket Score LIVE",
+    "version": "1.0.0",
+    "description": "Provides live cricket score",
+    "manifest_version": 3,
+    "author": "Anubhav Sharma",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Cricket LIVE"
+    }
+}
